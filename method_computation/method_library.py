@@ -33,7 +33,7 @@ class MethodLibrary:
     def get_method (self, classification = "Surprise", stage = "Major", title = "Bristol Surprise Major"):
         args = {}
         
-        lines = open (os.path.join (self.path, classification, stage, title + ".meth")).read ().splitlines ()
+        lines = open (os.path.join (self.path, classification, stage, title + ".meth"), "r", encoding = "utf-8").read ().splitlines ()
         
         for l in lines:
             ind = l.index ("|")
