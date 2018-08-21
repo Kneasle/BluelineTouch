@@ -1,8 +1,8 @@
+calls|[]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>12537496E8T0</leadhead>
 leadheadcode|
 lengthoflead|28
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Moulton Slow Course Alliance Maximus

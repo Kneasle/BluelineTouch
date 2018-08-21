@@ -1,8 +1,8 @@
+calls|[B|14|IBFVXSENMWH|4|0,S|1234|23FVXSENMWH|4|0]
 classification|Place
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1628403T5E79</leadhead>
 leadheadcode|
 lengthoflead|4
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Redback Differential Little Place Maximus

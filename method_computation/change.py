@@ -1,4 +1,4 @@
-import constants
+from .constants import *
 
 
 class Change:
@@ -52,7 +52,7 @@ class Change:
     def __str__ (self):
         string = ""
         for i in self.sequence:
-            string += constants.bell_names [i]
+            string += bell_names [i]
         return string
     
     def __repr__ (self):

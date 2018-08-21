@@ -1,8 +1,8 @@
+calls|[B|14|IBFWH|24|0,S|1234|23FWH|24|0]
 classification|Treble Place
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|e
 lengthoflead|24
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|St Matthew in the City Treble Place Minor

@@ -1,8 +1,8 @@
+calls|[]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|j2
 lengthoflead|56
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|14
 title|Bristol Surprise Fourteen

@@ -1,8 +1,8 @@
+calls|[]
 classification|Slow Course
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>12534</leadhead>
 leadheadcode|
 lengthoflead|10
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|5
 title|Bilborough Slow Course Doubles

@@ -1,8 +1,8 @@
+calls|[]
 classification|Treble Place
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1T0B8D6C4A2E3957</leadhead>
 leadheadcode|
 lengthoflead|16
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|16
 title|Europa Differential Little Treble Place Sixteen

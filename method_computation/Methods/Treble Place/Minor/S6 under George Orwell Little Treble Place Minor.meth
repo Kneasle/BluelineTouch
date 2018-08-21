@@ -1,8 +1,8 @@
+calls|[]
 classification|Treble Place
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>521643</leadhead>
 leadheadcode|
 lengthoflead|12
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|S6 under George Orwell Little Treble Place Minor

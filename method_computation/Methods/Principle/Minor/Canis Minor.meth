@@ -1,8 +1,8 @@
+calls|[]
 classification|Principle
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>642513</leadhead>
 leadheadcode|
 lengthoflead|6
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|Canis Minor

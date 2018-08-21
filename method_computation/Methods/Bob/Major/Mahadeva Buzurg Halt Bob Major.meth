@@ -1,8 +1,8 @@
+calls|[B|14|IBFVMWH|16|0,S|1234|23FVMWH|16|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>13624857</leadhead>
 leadheadcode|
 lengthoflead|16
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|8
 title|Mahadeva Buzurg Halt Bob Major

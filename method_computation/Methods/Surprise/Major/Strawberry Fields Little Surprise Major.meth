@@ -1,8 +1,8 @@
+calls|[B|16|IBFVMWH|24|0,S|1678|23FVMWH|24|0]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>15634827</leadhead>
 leadheadcode|
 lengthoflead|24
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|8
 title|Strawberry Fields Little Surprise Major

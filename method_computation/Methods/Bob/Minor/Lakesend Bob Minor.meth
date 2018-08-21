@@ -1,8 +1,8 @@
+calls|[B|14|IBFWH|12|0,S|1234|23FWH|12|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|f
 lengthoflead|12
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|Lakesend Bob Minor

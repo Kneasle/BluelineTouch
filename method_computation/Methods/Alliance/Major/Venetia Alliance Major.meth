@@ -1,8 +1,8 @@
+calls|[B|14|IBFVMWH|24|0,S|1234|23FVMWH|24|0]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|a
 lengthoflead|24
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|8
 title|Venetia Alliance Major

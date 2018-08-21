@@ -1,8 +1,8 @@
+calls|[]
 classification|Treble Place
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>14523CDABET90786</leadhead>
 leadheadcode|
 lengthoflead|24
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|16
 title|Big Slink Differential Little Treble Place Sixteen

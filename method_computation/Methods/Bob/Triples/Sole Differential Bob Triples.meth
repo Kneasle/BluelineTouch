@@ -1,8 +1,8 @@
+calls|[]
 classification|Bob
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1647253</leadhead>
 leadheadcode|
 lengthoflead|14
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|7
 title|Sole Differential Bob Triples

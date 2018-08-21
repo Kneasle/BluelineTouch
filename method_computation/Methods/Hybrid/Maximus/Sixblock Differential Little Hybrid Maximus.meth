@@ -1,8 +1,8 @@
+calls|[]
 classification|Hybrid
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>6543217890ET</leadhead>
 leadheadcode|
 lengthoflead|6
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Sixblock Differential Little Hybrid Maximus

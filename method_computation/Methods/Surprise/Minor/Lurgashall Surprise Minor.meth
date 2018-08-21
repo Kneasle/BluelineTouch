@@ -1,8 +1,8 @@
+calls|[]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>154263</leadhead>
 leadheadcode|
 lengthoflead|24
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|Lurgashall Surprise Minor

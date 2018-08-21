@@ -1,8 +1,8 @@
+calls|[B|10|IBFVXSENMWH|48|0,S|10ET|23FVXSENMWH|48|0]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|j1
 lengthoflead|48
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Downpatrick Surprise Maximus

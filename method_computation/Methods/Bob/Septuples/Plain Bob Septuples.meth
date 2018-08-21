@@ -1,8 +1,8 @@
+calls|[B|14|None|30|0,S|1234|None|30|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|p
 lengthoflead|30
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|15
 title|Plain Bob Septuples

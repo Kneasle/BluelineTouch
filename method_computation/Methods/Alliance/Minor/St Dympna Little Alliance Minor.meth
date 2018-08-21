@@ -1,8 +1,8 @@
+calls|[B|14|IBFWH|12|0,S|1456|23FWH|12|0]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>134625</leadhead>
 leadheadcode|
 lengthoflead|12
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|St Dympna Little Alliance Minor

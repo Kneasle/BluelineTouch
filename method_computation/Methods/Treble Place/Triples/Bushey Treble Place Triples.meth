@@ -1,8 +1,8 @@
+calls|[]
 classification|Treble Place
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1246375</leadhead>
 leadheadcode|
 lengthoflead|28
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|7
 title|Bushey Treble Place Triples

@@ -1,4 +1,5 @@
-import constants, change, call
+from .constants import *
+from .change import *
 import unicodedata
 
 
@@ -6,8 +7,8 @@ def convert_place_notation (notation):
     output = ""
     
     for i in notation:
-        if i in constants.place_notation_conversions.keys ():
-            output += constants.place_notation_conversions [i]
+        if i in place_notation_conversions.keys ():
+            output += place_notation_conversions [i]
         else:
             output += i
     
@@ -71,8 +72,8 @@ def split_notation_to_transposition (stage, notation):
     transposition = [p for p in range (stage)]
     i = 0
     while i < stage:
-        if (places.__contains__ (constants.bell_names [i]) or
-                places.__contains__ (constants.bell_names [i + 1])) or i >= stage - 1:
+        if (places.__contains__ (bell_names [i]) or
+                places.__contains__ (bell_names [i + 1])) or i >= stage - 1:
             transposition [i] = i
             i += 1
         else:
@@ -80,7 +81,7 @@ def split_notation_to_transposition (stage, notation):
             transposition [i + 1] = i
             i += 2
     
-    return change.Change (stage, transposition)
+    return Change (stage, transposition)
 
 
 def generate_look_up_table (expanded_notation, stage):
@@ -96,55 +97,6 @@ def create_dump (dictionary):
     for i in sorted (dictionary.keys ()):
         string += str (i) + ": " + str (dictionary [i]) + "\n"
     return string [:-1]
-
-
-def generate_standard_bobs_and_singles (method):
-    if method.hunt_bells == [0]:
-        try:
-            call_set = {
-                6: "WH",
-                7: "WMH",
-                8: "VMWH",
-                9: "VXWMH",
-                10: "VXSMWH",
-                11: "VXSEWMH",
-                12: "VXSENMWH",
-                13: "VXSEN?WMH",
-            } [method.stage]
-        except KeyError:
-            call_set = None
-        
-        # CASE 1: PLAIN BOB-LIKE "12" LEAD HEAD
-        if "12" in method.expanded_notation [-1]:
-            if method.stage >= 6:
-                #  -- B: 14, S: 1234
-                if not call_set is None:
-                    return [call.Call ("B", "14", "IBF" + call_set), call.Call ("S", "1234", "23F" + call_set)]
-                else:
-                    return [call.Call ("B", "14"), call.Call ("S", "1234")]
-            elif method.stage == 5:
-                #  -- B: 145, S: 123
-                return [call.Call ("B", "145", "IBMH"), call.Call ("S", "123", "23WH")]
-        
-        # CASE 2: "18" LEAD HEAD
-        if method.expanded_notation [-1] == "1" + constants.bell_names [method.stage - 1] and \
-                                method.stage % 2 == 0 and call_set is not None:
-            pivot_bell = method.half_lead_head [
-                constants.bell_names.index (method.expanded_notation [method.lead_length / 2 - 1] [0])
-            ]
-            
-            if pivot_bell == 1:
-                # BRISTOL/KENT-LIKE "18" LEAD END, WITH 2 AS PIVOT BELL -- B: 14, S: 1234
-                return [call.Call ("B", "14", "IBF" + call_set), call.Call ("S", "1234", "23F" + call_set)]
-            else:
-                # TODO: FIX CALLING POSITION NAMES FOR Nth PLACE METHODS
-                # PRIMROSE-LIKE "18" LEAD END, WITHOUT 2 AS PIVOT BELL -- B: 1{n-2}, S: 1{n-2}{n-1}{n}
-                return [
-                    call.Call ("B", "1" + constants.bell_names [method.stage - 3], "IBF" + call_set),
-                    call.Call ("S", "1" + constants.bell_names [method.stage - 3: method.stage], "23F" + call_set)
-                ]
-    
-    return []
 
 
 def get_unrepeated_string (string):
@@ -190,16 +142,16 @@ def escape_method_name (name):
             output += "*U" + str (unicodedata.normalize ('NFKD', i).encode ('ascii', 'backslashreplace')) [3:] + "*V"
     
     # CONVERT CHARACTERS
-    for i in constants.name_escape_conversions.keys ():
-        output = output.replace (i, constants.name_escape_conversions [i])
+    for i in name_escape_conversions.keys ():
+        output = output.replace (i, name_escape_conversions [i])
     
     return output
 
 
 def deescape_method_name (name):
     # CONVERT CHARACTERS
-    for i in constants.name_escape_conversions.keys ():
-        name = name.replace (constants.name_escape_conversions [i], i)
+    for i in name_escape_conversions.keys ():
+        name = name.replace (name_escape_conversions [i], i)
     
     # GENERATE UNICODE CHARACTERS
     while name.__contains__ ("*U"):
@@ -211,7 +163,7 @@ def deescape_method_name (name):
 
 
 def convert_call_for_display (call_name):
-    if call_name in constants.touch_call_display_conversions.keys ():
-        return constants.touch_call_display_conversions [call_name]
+    if call_name in touch_call_display_conversions.keys ():
+        return touch_call_display_conversions [call_name]
     else:
         return call_name

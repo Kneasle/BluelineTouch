@@ -1,8 +1,8 @@
+calls|[]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|j1
 lengthoflead|52
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|16
 title|Callisto Megale Little Alliance Sixteen

@@ -1,8 +1,8 @@
+calls|[B|10|IBFVXSENMWH|12|0,S|10ET|23FVXSENMWH|12|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>165248307T9E</leadhead>
 leadheadcode|
 lengthoflead|12
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Splashdown Little Bob Maximus

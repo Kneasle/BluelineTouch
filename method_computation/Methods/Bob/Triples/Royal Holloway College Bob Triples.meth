@@ -1,8 +1,8 @@
+calls|[B|14|IBFWMH|14|0,S|1234|23FWMH|14|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1426753</leadhead>
 leadheadcode|
 lengthoflead|14
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|7
 title|Royal Holloway College Bob Triples

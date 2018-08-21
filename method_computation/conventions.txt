@@ -3,9 +3,7 @@ CALL NAMES:
         miss / plain = "P"
         bob / - = "B"
         single = "S"
-
         All calls are capitalised, and any other calls e.g. Grandsire extremes are stored as a capital letter.
-
     Call names will always be displayed in grids / displays as:
         miss / plain = ""
         bob = "-"
@@ -18,12 +16,10 @@ CALL NAMES:
     If no bobs or singles are given, the software will assume a default set of bobs and singles:
         Doubles: "B": "14", "S": "123"
         Minor and above: "B": "14", "S": "1234"
-
         These are the bobs and singles for plain bob
 
     When creating methods, make sure that none of the calls have the same notation as any of that method's calling
     positions; this will confuse the program, and lead to mistakes during touch computations
-
 CALLING POSITIONS:
     Calling positions are always stored as these standards:
         Out / O = "B" (Before)

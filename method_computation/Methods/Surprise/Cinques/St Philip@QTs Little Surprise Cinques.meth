@@ -1,8 +1,8 @@
+calls|[]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|s
 lengthoflead|24
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|11
 title|St Philip's Little Surprise Cinques

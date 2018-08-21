@@ -1,8 +1,8 @@
+calls|[B|14|IBFVXSEWMH|8|0,S|1234|23FVXSEWMH|8|0]
 classification|Bob
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1648203E597</leadhead>
 leadheadcode|
 lengthoflead|8
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|11
 title|Baldrick Differential Little Bob Cinques

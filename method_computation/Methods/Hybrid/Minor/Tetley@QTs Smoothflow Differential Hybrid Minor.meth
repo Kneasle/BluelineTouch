@@ -1,8 +1,8 @@
+calls|[B|14|IBFWH|14|0,S|1234|23FWH|14|0]
 classification|Hybrid
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>145263</leadhead>
 leadheadcode|
 lengthoflead|14
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|Tetley's Smoothflow Differential Hybrid Minor

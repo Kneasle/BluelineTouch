@@ -1,8 +1,8 @@
+calls|[B|14|IBFVXSENMWH|12|0,S|1234|23FVXSENMWH|12|0]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|e
 lengthoflead|12
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Julie McDonnell Little Alliance Maximus

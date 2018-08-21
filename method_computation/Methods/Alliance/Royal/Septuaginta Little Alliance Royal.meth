@@ -1,8 +1,8 @@
+calls|[B|14|IBFVXSMWH|30|0,S|1234|23FVXSMWH|30|0]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|c1
 lengthoflead|30
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|10
 title|Septuaginta Little Alliance Royal

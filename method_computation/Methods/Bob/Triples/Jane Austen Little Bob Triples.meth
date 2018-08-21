@@ -1,8 +1,8 @@
+calls|[]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1465372</leadhead>
 leadheadcode|
 lengthoflead|12
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|7
 title|Jane Austen Little Bob Triples

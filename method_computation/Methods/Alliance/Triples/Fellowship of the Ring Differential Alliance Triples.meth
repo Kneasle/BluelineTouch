@@ -1,8 +1,8 @@
+calls|[]
 classification|Alliance
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1543267</leadhead>
 leadheadcode|
 lengthoflead|18
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|7
 title|Fellowship of the Ring Differential Alliance Triples

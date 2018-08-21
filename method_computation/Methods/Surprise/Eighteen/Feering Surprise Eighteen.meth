@@ -1,8 +1,8 @@
+calls|[B|14|None|72|0,S|1234|None|72|0]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|b
 lengthoflead|72
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|18
 title|Feering Surprise Eighteen

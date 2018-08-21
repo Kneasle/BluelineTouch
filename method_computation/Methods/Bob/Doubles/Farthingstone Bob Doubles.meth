@@ -1,8 +1,8 @@
+calls|[B|145|IBMH|10|0,S|123|23WH|10|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|p
 lengthoflead|10
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|5
 title|Farthingstone Bob Doubles

@@ -1,8 +1,8 @@
+calls|[]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|g
 lengthoflead|22
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|11
 title|Kennet Bob Cinques

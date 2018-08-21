@@ -1,8 +1,8 @@
+calls|[B|14|IBFVXSMWH|40|0,S|1234|23FVXSMWH|40|0]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|b
 lengthoflead|40
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|10
 title|Malta G.C. Surprise Royal

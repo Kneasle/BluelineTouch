@@ -1,8 +1,8 @@
+calls|[]
 classification|Surprise
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1234ET907856</leadhead>
 leadheadcode|
 lengthoflead|16
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Tenpo Differential Little Surprise Maximus

@@ -1,8 +1,8 @@
+calls|[B|10|IBFVXSENMWH|44|0,S|10ET|23FVXSENMWH|44|0]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|j2
 lengthoflead|44
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Porter Alliance Maximus

@@ -1,8 +1,8 @@
+calls|[B|14|IBFWH|20|0,S|1456|23FWH|20|0]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|l
 lengthoflead|20
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|Carr Gate Alliance Minor

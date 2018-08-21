@@ -1,8 +1,8 @@
+calls|[]
 classification|Principle
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>542361</leadhead>
 leadheadcode|
 lengthoflead|12
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|Sedlescombe under Chieveley Differential Minor

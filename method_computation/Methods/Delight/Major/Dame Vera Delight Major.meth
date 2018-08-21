@@ -1,8 +1,8 @@
+calls|[B|16|IBFVMWH|32|0,S|1678|23FVMWH|32|0]
 classification|Delight
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|h
 lengthoflead|32
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|8
 title|Dame Vera Delight Major

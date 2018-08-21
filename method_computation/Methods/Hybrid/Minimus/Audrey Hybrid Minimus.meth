@@ -1,8 +1,8 @@
+calls|[]
 classification|Hybrid
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1432</leadhead>
 leadheadcode|
 lengthoflead|12
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|4
 title|Audrey Hybrid Minimus

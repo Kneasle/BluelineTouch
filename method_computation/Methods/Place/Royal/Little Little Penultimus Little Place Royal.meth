@@ -1,8 +1,8 @@
+calls|[B|18|IBFVXSMWH|18|0,S|1890|23FVXSMWH|18|0]
 classification|Place
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|g
 lengthoflead|18
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|10
 title|Little Little Penultimus Little Place Royal

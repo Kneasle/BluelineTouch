@@ -1,8 +1,8 @@
+calls|[B|14|IBFVMWH|8|0,S|1234|23FVMWH|8|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>15487236</leadhead>
 leadheadcode|
 lengthoflead|8
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|8
 title|Mint Imperial Little Bob Major

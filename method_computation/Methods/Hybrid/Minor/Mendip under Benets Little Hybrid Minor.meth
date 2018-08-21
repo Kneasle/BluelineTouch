@@ -1,8 +1,8 @@
+calls|[]
 classification|Hybrid
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>541326</leadhead>
 leadheadcode|
 lengthoflead|12
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|6
 title|Mendip under Benets Little Hybrid Minor

@@ -1,8 +1,8 @@
+calls|[B|145|IBMH|6|0,S|123|23WH|6|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|p
 lengthoflead|6
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|5
 title|Stanwell Little Bob Doubles

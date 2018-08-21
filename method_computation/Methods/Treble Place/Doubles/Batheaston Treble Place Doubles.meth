@@ -1,8 +1,8 @@
+calls|[]
 classification|Treble Place
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>15423</leadhead>
 leadheadcode|
 lengthoflead|20
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|5
 title|Batheaston Treble Place Doubles

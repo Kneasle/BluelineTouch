@@ -1,8 +1,8 @@
+calls|[B|16|IBFVMWH|12|0,S|1678|23FVMWH|12|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|h
 lengthoflead|12
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|8
 title|Wellington Little Bob Major

@@ -1,8 +1,8 @@
+calls|[]
 classification|Treble Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|m
 lengthoflead|64
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|16
 title|Kent Treble Bob Sixteen

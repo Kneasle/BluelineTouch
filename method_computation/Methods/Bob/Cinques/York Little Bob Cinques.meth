@@ -1,8 +1,8 @@
+calls|[]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1864203E597</leadhead>
 leadheadcode|
 lengthoflead|8
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|11
 title|York Little Bob Cinques

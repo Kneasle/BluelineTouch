@@ -1,8 +1,8 @@
+calls|[B|16|IBFVMWH|24|0,S|1678|23FVMWH|24|0]
 classification|Hybrid
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>16482735</leadhead>
 leadheadcode|
 lengthoflead|24
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|8
 title|Briswich Hybrid Major

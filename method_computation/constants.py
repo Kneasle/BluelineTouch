@@ -8,7 +8,16 @@ all_stages = ["Zeros", "Ones", "Twos", "Singles", "Minimus", "Doubles", "Minor",
 
 calling_position_conversions = {"O": "B", "4": "F"}
 place_notation_conversions = {"-": "X"}
-name_escape_conversions = {"/": "@SL", "@": "@@", "\\": "@BS", "'": "@QT", "*": "@", ".": "@PD"}
+name_escape_conversions = {
+        "/": "@SL",
+        "@": "@@",
+        "\\": "@BS",
+        "'": "@QT",
+        "\"": "@DQ",
+        "*": "@",
+        ".": "@PD",
+        "?": "@QM"
+}
 
 # ENUMS
 ONLY_LEAD_HEADS = "Only Lead Ends"

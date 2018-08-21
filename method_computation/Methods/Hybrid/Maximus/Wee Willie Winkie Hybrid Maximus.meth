@@ -1,8 +1,8 @@
+calls|[]
 classification|Hybrid
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>128734TE6590</leadhead>
 leadheadcode|
 lengthoflead|96
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Wee Willie Winkie Hybrid Maximus

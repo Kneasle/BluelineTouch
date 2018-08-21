@@ -1,8 +1,8 @@
+calls|[B|14|IBFVXSMWH|16|0,S|1234|23FVXSMWH|16|0]
 classification|Surprise
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|e
 lengthoflead|16
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|10
 title|Lizzicles Little Surprise Royal

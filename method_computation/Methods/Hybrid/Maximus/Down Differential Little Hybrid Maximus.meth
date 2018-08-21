@@ -1,8 +1,8 @@
+calls|[]
 classification|Hybrid
 differential|true
 doublesym|false
 fchgroups|
-leadhead|<leadhead>8765432190TE</leadhead>
 leadheadcode|
 lengthoflead|20
 little|true
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Down Differential Little Hybrid Maximus

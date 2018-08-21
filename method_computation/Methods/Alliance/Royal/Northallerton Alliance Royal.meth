@@ -1,8 +1,8 @@
+calls|[B|18|IBFVXSMWH|32|0,S|1890|23FVXSMWH|32|0]
 classification|Alliance
 differential|false
 doublesym|false
 fchgroups|
-leadhead|None
 leadheadcode|g
 lengthoflead|32
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|true
 plain|false
-provisional|f
+provisional|false
 rotational|false
 stage|10
 title|Northallerton Alliance Royal

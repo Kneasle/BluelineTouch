@@ -1,8 +1,8 @@
+calls|[B|14|IBFVXSENMWH|24|0,S|1234|23FVXSENMWH|24|0]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>1567890ET234</leadhead>
 leadheadcode|
 lengthoflead|24
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|12
 title|Double Ascension Cyclic Bob Maximus

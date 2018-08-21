@@ -1,8 +1,8 @@
+calls|[]
 classification|Bob
 differential|false
 doublesym|false
 fchgroups|
-leadhead|<leadhead>125973846</leadhead>
 leadheadcode|
 lengthoflead|18
 little|false
@@ -12,7 +12,7 @@ notationexpanded|None
 numberofhunts|
 palindromic|false
 plain|true
-provisional|f
+provisional|false
 rotational|false
 stage|9
 title|Union Caters
