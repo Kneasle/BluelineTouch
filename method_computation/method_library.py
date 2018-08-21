@@ -32,7 +32,6 @@ class MethodLibrary:
     
     def get_method (self, classification = "Surprise", stage = "Major", title = "Bristol Surprise Major"):
         args = {}
-        title = escape_method_name (title)
         
         lines = open (os.path.join (self.path, classification, stage, title + ".meth")).read ().splitlines ()
         
