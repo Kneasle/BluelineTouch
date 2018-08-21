@@ -36,7 +36,9 @@ class MethodLibrary:
         lines = open (os.path.join (self.path, classification, stage, title + ".meth")).read ().splitlines ()
         
         for l in lines:
-            key, value = l.split ("|")
+            ind = l.index ("|")
+            key = l [:ind]
+            value = l [ind + 1:]
             args [key] = value
         
         return Method (int (args ["stage"]), None, classification, args ["notation"], title = args ["title"])
